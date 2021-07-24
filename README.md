@@ -2,6 +2,6 @@
 
 ## Criei uma sala, para fazerem perguntas para você!!
 
-###               ou
+##               ou
 
 ## Entre em uma sala, faça perguntas!!
