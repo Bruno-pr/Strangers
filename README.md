@@ -38,4 +38,4 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 
 
-Feito com ♥ by Bruno Soares :wave: 
+Feito com ♥ by Bruno Soares 👋🏽
