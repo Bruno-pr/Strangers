@@ -168,6 +168,6 @@ background: var(--grey-medium);
 .no-questions p + p{
 font-family: 'Open Sans', sans-serif;
 font-weight: 400;
-margin-top: 1.3rem;
+margin-top: .1rem;
 line-height: 1.9rem;
 }
