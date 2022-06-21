@@ -29,7 +29,7 @@ function handleClick(event, check = true) {
     const roomId = document.querySelector("#room-id").dataset.id
     const form = document.querySelector(".modal form")
     const questionId = event.target.dataset.id
-    
+
     form.setAttribute("action", `/question/${roomId}/${questionId}/${slug}`)
 
     modalTittle.innerHTML = `${text} esta pergunta`
