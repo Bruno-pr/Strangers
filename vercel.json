@@ -1,0 +1,15 @@
+{
+  "name": "Strangers",
+  "version": 2,
+  "public": true,
+  "build": {
+      "src": "src/views/parts/index.ejs",
+      "use": "@vercel/node"
+  },
+  "routes": [
+      {
+          "src": "/(.*)",
+          "dest": "src/views/parts/index.ejs"
+      }
+  ]
+}
