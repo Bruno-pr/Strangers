@@ -1,7 +1,7 @@
 # Strangers
 
 Strangers is an interaction application through questions, it is possible to create a room for anonymous internet users to ask questions and the creator of the room, in possession of a password, manage these questions and mark them as read.
-see the project: https://strangersbr.herokuapp.com/
+
 ---
 ## Requirements
 
